@@ -66,7 +66,6 @@ Durante o projeto, foram investigadas questões como:
 
 ## 💡 Possíveis recomendações
 
-- Reduzir o tempo de espera para diminuir chamadas perdidas  
 - Avaliar estratégias de contato com clientes para aumentar taxa de resposta  
 - Investigar práticas dos operadores mais eficientes
 
